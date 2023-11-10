@@ -14,17 +14,17 @@ const Projects = () => {
         <ProjectCard
           src="/speedify.png"
           title="Speedify Webpage"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Speedify is a virtual private network (VPN) service that focuses on providing users with a faster and more reliable internet connection."
         />
         <ProjectCard
           src="/website.png"
           title="Portfolio Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="A portfolio website is a digital platform that showcases an individual's or a company's work, achievements, skills, and expertise."
         />
         <ProjectCard
           src="/netflix.png"
           title="Netflix Clone"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="I have made an Netflix Clone using GoogleApi's for fetching all data of Netflix and written an query in javascript"
         />
       </div>
     </div>
