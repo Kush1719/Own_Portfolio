@@ -55,9 +55,10 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a FullStack Software Engineer with experience in Website
-          Development. Check out my projects and skills.
+          <p>🚀 Passionate Full Stack Developer</p>
+          Greetings! I am a dedicated and innovative Full Stack Developer with a flair for creating robust and scalable web applications. My journey in the world of technology has equipped me with a diverse skill set that spans both front-end and back-end development.
         </motion.p>
+
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"

@@ -1,14 +1,14 @@
   export const Socials = [
     {
+      name: "Github",
+      src: "/github.svg",
+    },
+    {
+      name: "Linkedin",
+      src: "/linkedin.webp",
+    },
+    {
       name: "Discord",
-      src: "/instagram.svg",
-    },
-    {
-      name: "Facebook",
-      src: "/facebook.svg",
-    },
-    {
-      name: "Instagram",
       src: "/discord.svg",
     },
   ]; 

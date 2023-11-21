@@ -1,6 +1,13 @@
 import React from "react";
+import { FaGithub } from 'react-icons/fa';
 import ProjectCard from "../sub/ProjectCard";
 
+interface ProjectCardProps {
+  name: string;
+  image: string;
+  description: string;
+  githubLink: string; // Add a prop for GitHub link
+}
 const Projects = () => {
   return (
     <div
