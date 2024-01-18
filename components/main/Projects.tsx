@@ -33,6 +33,11 @@ const Projects = () => {
           title="Netflix Clone"
           description="I have made an Netflix Clone using GoogleApi's for fetching all data of Netflix and written an query in javascript"
         />
+        <ProjectCard
+          src="/superbike.png"
+          title="Superbike Rental website"
+          description="Welcome to our Superbike Rental website, where adrenaline meets the open road! Explore the thrill of riding high-performance superbikes without the commitment of ownership."
+        />
       </div>
     </div>
   );
